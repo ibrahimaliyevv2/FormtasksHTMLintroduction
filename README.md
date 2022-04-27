@@ -1,3 +1,4 @@
 # FormtasksHTMLintroduction
 
-Taskların tapşırıqları şəkil formasında hər bir task qovluğunda qeyd olunub.
+
+Tapşırıqların şərti hər bir task qovluğunun içində şəkil formasında verilib.
